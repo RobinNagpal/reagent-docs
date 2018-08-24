@@ -5,19 +5,19 @@
 # Replace the values here with your project` information.
 project:
   # The name of the organisation or entity that owns this project
-  organisation: "Electric Book Works"
+  organisation: "Reagent Docs"
   # A live web address for the organisation
-  url: "http://electricbook.works/"
+  url: "https://reagent-project.github.io"
   # The default contact email address
-  email: "support@electricbook.works"
+  email: "robinnagpal.tiet@gmail.com"
   # The name of the project of books in this folder.
-  name: "Electric Book"
+  name: "Reagent Docs"
   # A one-liner about this project. Useful for Open Graph metadata.
-  description: "The Electric Book template in action."
+  description: "Basics to internals of Reagent"
   # The logo of the organisation, saved web-ready in /assets
-  logo: "publisher-logo.jpg"
+  logo: "publisher-logo.png"
   # An image in /assets that stands for the project
-  image: "cover.jpg"
+  image: "publisher-logo.png"
   # Credit line, by default in the footer, overidden in locales.yml
   credit: "Built with the [Electric Book](http://electricbook.works)"
   # Primary language code for this project as a whole

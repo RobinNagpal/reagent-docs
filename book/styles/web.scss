@@ -222,3 +222,16 @@ $web-reset-sequences: true; // This should stay last in the @import list
 
 // Add any custom Sass or CSS here.
 
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+.footer,
+.push {
+  height: 50px;
+}
+
+#content {
+  min-height: 60vh;
+}

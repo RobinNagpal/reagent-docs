@@ -1,5 +1,5 @@
 ---
-title: Cover
+title: Reagent Docs
 style: cover
 ---
 

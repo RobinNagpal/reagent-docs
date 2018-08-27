@@ -239,3 +239,11 @@ html, body {
 img {
   width: 1024px;
 }
+
+
+.contents-page #content ol, .contents-page #content ul {
+  list-style-type: decimal;
+  li {
+    margin: 10px;
+  }
+}

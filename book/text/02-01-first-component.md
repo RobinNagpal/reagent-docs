@@ -31,7 +31,7 @@ and now want to understand what exactly is happening behind the scenes.
 If we try to debug the rendered component in [react developer tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 we can relate how reagent converts function to a react component.
 
-![Reagent Component](/book/images/web/01-first-component/01-reagent-component.png "Reagent Component")
+![Reagent Component](/reagent-docs/book/images/web/01-first-component/01-reagent-component.png "Reagent Component")
 
 We see here that reagent has created a react component corresponding to our function
 and the name of that component is the fully qualified name of the function.
@@ -73,10 +73,10 @@ This is the step that results in react component.
 7. Passes the props as `{:argv v}`. Here v is `[simple-component "Good Morning " "Robin Nagpal"]`
 
 Below 
-![Component Props](/book/images/web/01-first-component/03-simple_component.png "Reagent Component")  
-![Component Props](/book/images/web/01-first-component/04-cljsReactClass-prtotype.png "Reagent Component")  
+![Component Props](/reagent-docs/book/images/web/01-first-component/03-simple_component.png "Reagent Component")  
+![Component Props](/reagent-docs/book/images/web/01-first-component/04-cljsReactClass-prtotype.png "Reagent Component")  
 
-![Component Props](/book/images/web/01-first-component/02-argv-props.png "Reagent Component")    
+![Component Props](/reagent-docs/book/images/web/01-first-component/02-argv-props.png "Reagent Component")    
 
   
 

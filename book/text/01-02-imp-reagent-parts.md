@@ -8,12 +8,12 @@ making it very easy for updating the component when data changes.
 
 Best part of Clojure is working with immutable collections/data. ....... 
 
-# React Component Wrapper
+#### React Component Wrapper
 
-# Ratoms
+#### Ratoms
 
-# Updating Component When data changes
+#### Updating Component When data changes
 
-# Reactions
+#### Reactions
 
-# Utility functions
+#### Utility functions
